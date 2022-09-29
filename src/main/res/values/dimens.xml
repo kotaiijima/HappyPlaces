@@ -16,4 +16,5 @@
 	<dimen name="add_screen_btn_save_paddingTopBottom">10dp</dimen>
 	<dimen name="add_screen_text_add_image_textSize">20sp</dimen>
 	<dimen name="btn_text_size">20sp</dimen>
+	<dimen name="no_set_of_hppay_places_size">16sp</dimen>
 </resources>
