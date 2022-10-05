@@ -17,4 +17,16 @@
 	<dimen name="add_screen_text_add_image_textSize">20sp</dimen>
 	<dimen name="btn_text_size">20sp</dimen>
 	<dimen name="no_set_of_hppay_places_size">16sp</dimen>
+	<dimen name="ihp_cv_main_startEnd">8dp</dimen>
+	<dimen name="ihp_main_corner">10dp</dimen>
+	<dimen name="ihp_ll_main">10dp</dimen>
+	<dimen name="ihp_ll_civ_width">70dp</dimen>
+	<dimen name="ihp_ll_civ_height">70dp</dimen>
+	<dimen name="ihp_ll_tv_textSize">20sp</dimen>
+	<dimen name="detail_screen_image_height_size">200dp</dimen>
+	<dimen name="detail_screen_description_margin">20dp</dimen>
+	<dimen name="detail_screen_description_text_size">25sp</dimen>
+	<dimen name="detail_screen_location_marginStartEnd">15dp</dimen>
+	<dimen name="detail_screen_location_marginTop">5dp</dimen>
+	<dimen name="detail_screen_location_text_size">25sp</dimen>
 </resources>

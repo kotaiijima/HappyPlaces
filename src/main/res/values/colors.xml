@@ -15,5 +15,8 @@
 	<color name="brown5">#d4a373</color>
 	<color name="primary_text_color">#f4a261</color>
 	<color name="secondary_text_color">#ccd5ae</color>
+	<color name="civ_border">#e9edc9</color>
 
+	<color name="detail_screen_description_text_color">#ccd5ae</color>
+	<color name="colorAccent">#ccd5ae</color>
 </resources>

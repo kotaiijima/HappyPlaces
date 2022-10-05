@@ -7,4 +7,7 @@
 	<string name="text_add_image">ADD IMAGE</string>
 	<string name="btn_text_save">SAVE</string>
 	<string name="no_set_of_happy_places">You still not make happy place.</string>
+	<string name="ihp_ll_civ_desc">This is Circle Image View.</string>
+
+	<string name="google_map_key">AIzaSyDJEAvjFZbw46BGg6Phsb-DfIL6OvNyFlU</string>
 </resources>
